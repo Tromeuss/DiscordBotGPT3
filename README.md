@@ -6,3 +6,5 @@ vous avez simplement a changer les information dans le .env
 il vous faut votre token du bot discord
 l'id du channel dans lequel votre bot vous repondra 
 et une API gpt 3 neuve de preference 
+
+Il faudrat aussi faire un npm install dans la console pour installer les requires
